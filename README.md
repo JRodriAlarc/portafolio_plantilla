@@ -1,4 +1,8 @@
+![Imagen de Portada](assets/img/PortadaReppositorio_Alura.png)
+
 # 🌐 Plantilla para Portafolio Personal
+
+---
 
 ¡Bienvenido a mi repositorio! Este proyecto es una **plantilla de portafolio personal** que he creado como base para diseñar y construir un sitio web responsivo. Este proyecto está inspirado en un **mockup de Figma** (puedes verlo aquí: [[Link al Mockup de Figma](https://www.figma.com/design/ngAigJ3TPz7NaMMt09vmvR/Portafolio---Curso-3-Responsio?node-id=0-1&t=Y1X8iEYXYLt7GNFO-1)]). Fue diseñado para ser una estructura flexible y personalizable, perfecta para quienes desean tener su propio portafolio online.
 
